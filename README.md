@@ -30,7 +30,7 @@ git clone --branch hexo git@github.com:ShanghaiTech-Hu-Lab/shanghaitech-hu-lab.g
 4. 安装依赖  
 ```bash  
 cd huzoo  
-npm istall   
+npm install   
 ```
 
 5. 提交更改  
